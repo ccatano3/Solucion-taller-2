@@ -1,2 +1,2 @@
 # Solucion-taller-2
-Solucion taller
+Solución del Taller N°2
