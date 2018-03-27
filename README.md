@@ -1,5 +1,4 @@
-# Solucion-taller-2
-<html>
+# Solucion taller 2
   <b>Solución del Taller N°2</b>
 <p>
   <b>Actividad 1:</b>
@@ -77,4 +76,4 @@
 <p>
   <b>Actividad 9:</b>
 </p>
-</html>
+
