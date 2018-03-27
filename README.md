@@ -4,7 +4,7 @@
   <b>Actividad 1:</b>
 </p>
 <p>
-  <b/>Actividad 2:</b>
+ <b/>Actividad 2:</b>
   </p>
 <p>
   <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
