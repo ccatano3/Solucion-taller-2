@@ -1,5 +1,5 @@
 # Solucion taller 2
-  <b>Solución del Taller N°2</b>
+  A continuación se encuentra la solución del taller número 2.
 <p>
   <b>Actividad 1:</b>
 </p>
