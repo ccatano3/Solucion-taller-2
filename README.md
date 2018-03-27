@@ -1,7 +1,10 @@
+<html>
 # Solucion-taller-2
-<center>
-  <b>Solución del Taller N°2</b>
-</center>
+<title>
+  <center>
+    <b>Solución del Taller N°2</b>
+  </center>
+</title>
 <p>
   <b>Actividad 1:</b>
 </p>
@@ -9,7 +12,7 @@
   <b/>Actividad 2:</b>
 </p>
 <p>
-  </b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
+  <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
 </p>
 <p>
   <img src="imagenes/imagen.jpg"/>
@@ -46,3 +49,4 @@
 <p>
   <b>Actividad 9:</b>
 </p>
+</html>
