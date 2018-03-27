@@ -1,10 +1,6 @@
 # Solucion-taller-2
 <html>
-<title>
-  <center>
-    <b>Solución del Taller N°2</b>
-  </center>
-</title>
+  <center><b>Solución del Taller N°2</b></center>
 <p>
   <b>Actividad 1:</b>
 </p>
@@ -15,7 +11,7 @@
   <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
 </p>
 <p>
-  <img src="imagenes/imagen.jpg"/>
+  <img src="C:\Users\W\Documents\GitHub\Solucion-taller-2"/>
 </p>
 <p>
   <b>Beneficios que tiene este programa:</b>
