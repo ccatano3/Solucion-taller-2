@@ -29,7 +29,7 @@
 <li>Es completamente gratis e ilimitado para proyectos públicos, es decir que todos podrán ver el código que estos contienen (aunque tú siempre tendrás el control sobre quien subirá cambios).
 </ul>
 <p>
-  <b>comandos más utilizados:</b>
+  <b>Comandos más utilizados:</b>
 </p>
 <ul>
    <li>git config
@@ -54,7 +54,11 @@
    <li>git grep
 </ul>
 <p>
-  <b><Evidencia de la instalación del cliente grafico para Windows de GitHub oeoeoeoeoe</b>
+  <b>Actividad fklg:</b>
+</p><p>
+  <b>Actividad rqrqr:</b>
+</p><p>
+  <b>Actividad qqr:</b>
 </p>
 <p>
   <b>Actividad 4:</b>
