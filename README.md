@@ -4,13 +4,13 @@
   <b>Actividad 1:</b>
 </p>
 <p>
-  <b/>Actividad 2:</b>
+ <b/>Actividad 2:</b>
   </p>
 <p>
   <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
 </p>
 <p>
-  <img src="C:\Users\W\Documents\GitHub\Solucion-taller-2.png"/>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente</a>
 </p>
 <p>
   <b>Beneficios que tiene este programa:</b>
