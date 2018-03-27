@@ -55,7 +55,8 @@
 </ul>
 <p>
   <b><Evidencia de la instalación del cliente grafico para Windows de GitHub</b>
-</p>
+    </p>
+<p>
   <b>Actividad 4:</b>
 </p>
 <p>
