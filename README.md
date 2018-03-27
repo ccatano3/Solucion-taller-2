@@ -10,7 +10,7 @@
   <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
 </p>
 <p>
-  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente</a>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente.</a>
 </p>
 <p>
   <b>Beneficios que tiene este programa:</b>
@@ -53,22 +53,34 @@
    <li>git grep
 </ul>
 <p>
-  <a href="https://github.com/ccatano3/Proyecto-integrador-1">Dando clic aquí, puede observar la creación del otro repositorio relacionada con otra materia relacionada con programación la cual es Proyecto integrador 1</a>
+  <b>Evidencia de la creación de otro repositorio para otra materia:</b>
+</p>
+<p>
+  <a href="https://github.com/ccatano3/Proyecto-integrador-1">Dando clic aquí, puede observar la creación del otro repositorio relacionada con otra materia relacionada con programación la cual es Proyecto integrador 1.</a>
 </p>
 <p>
   <b>Evidencia de la instalación del cliente grafico para Windows de GitHub:</b>
 </p>
 <p>
-  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen2.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente</a>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen2.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente.</a>
 </p>
 <p>
   <b>Evidencia de la instalación del cliente grafico sourcetree y de la conexión al repositorio de este taller:</b>
 </p>
 <p>
-  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen3.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente</a>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen3.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente.</a>
 </p>
 <p>
   <b>Actividad 4:</b>
+</p>
+<p>
+   <b>Evidencia de la creación de la cuenta en Jetbrains y de la obtención de la licencia por 1 año gratuito, de la descarga de los 2 editores los cuales son ruby y PHP:</b>
+</p>
+<p>
+   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen4.png">Dando clic aquí, puede observar la evidencia de la obtencion de la licencia gratuita por 1 año.</a>
+</p>
+<p>
+   <b>Los tipos de productos de Jetbrains son:</b>
 </p>
 <p>
   <b>Actividad 5:</b>
