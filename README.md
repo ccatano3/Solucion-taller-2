@@ -29,30 +29,30 @@
 <li>Es completamente gratis e ilimitado para proyectos públicos, es decir que todos podrán ver el código que estos contienen (aunque tú siempre tendrás el control sobre quien subirá cambios).
 </ul>
 <p>
-  <ul>
   <b>comandos más utilizados:</b>
+</p>
+<ul>
    <li>git config
    <li>git add
-  <li>git clone
-	<li>git commit
-	<li>git status
-	<li>git push
-	<li>git checkout
-	<li>git remote
-	<li>git branch
-	<li>git pull
-	<li>git merge
-	<li>git diff
-	<li>git tag
-	<li>git log
-	<li>git reset
-	<li>git rm
-	<li>git show
-	<li>git fetch
-	<li>git stash
-	<li>git grep
+   <li>git clone
+   <li>git commit
+   <li>git status
+   <li>git push
+   <li>git checkout
+   <li>git remote
+   <li>git branch
+   <li>git pull
+   <li>git merge
+   <li>git diff
+   <li>git tag
+   <li>git log
+   <li>git reset
+   <li>git rm
+   <li>git show
+   <li>git fetch
+   <li>git stash
+   <li>git grep
 </ul>
-</p>
 <p>
   <b><Evidencia de la instalación del cliente grafico para Windows de GitHub</b>
 </p>
