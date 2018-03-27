@@ -10,7 +10,7 @@
   <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
 </p>
 <p>
-  Solucion-taller-2/imagen.png
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen.png">Programa educativo GitHub</a>
 </p>
 <p>
   <b>Beneficios que tiene este programa:</b>
