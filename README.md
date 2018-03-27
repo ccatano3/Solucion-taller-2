@@ -53,10 +53,19 @@
    <li>git grep
 </ul>
 <p>
+  <a href="https://github.com/ccatano3/Proyecto-integrador-1">Dando clic aquí, puede observar la creación del otro repositorio relacionada con otra materia relacionada con programación la cual es Proyecto integrador 1</a>
+</p>
+<p>
   <b>Evidencia de la instalación del cliente grafico para Windows de GitHub:</b>
 </p>
 <p>
-  <b>Evidencia de la instalación del cliente grafico sourcetree:</b>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen2.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente</a>
+</p>
+<p>
+  <b>Evidencia de la instalación del cliente grafico sourcetree y de la conexión al repositorio de este taller:</b>
+</p>
+<p>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen3.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente</a>
 </p>
 <p>
   <b>Actividad 4:</b>
