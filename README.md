@@ -74,14 +74,31 @@
   <b>Actividad 4:</b>
 </p>
 <p>
-   <b>Evidencia de la creación de la cuenta en Jetbrains y de la obtención de la licencia por 1 año gratuito, de la descarga de los 2 editores los cuales son ruby y PHP:</b>
+   <b>Evidencia de la creación de la cuenta en Jetbrains y de la descarga de los 2 editores los cuales son ruby y PHP:</b>
 </p>
 <p>
-   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen4.png">Dando clic aquí, puede observar la evidencia de la obtencion de la licencia gratuita por 1 año.</a>
+   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen4.png">Dando clic aquí, puede observar la evidencia de la creación de la cuenta y de la obtencion de la licencia gratuita por 1 año.</a>
+</p>
+<p>
+   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen5.png">Dando clic aquí, puede observar la evidencia de la descarga del editor para programar en ruby.</a>
+</p>
+<p>
+   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen6.png">Dando clic aquí, puede observar la evidencia de la descarga del editor para programar en PHP.</a>
 </p>
 <p>
    <b>Los tipos de productos de Jetbrains son:</b>
 </p>
+<ol>
+  <li>Code review
+  <li>Continuous Integration
+  <li>Education
+  <li>IDE, Code Editors
+  <li>Languagues
+  <li>Project Management
+  <li>Team Tools
+  <li>Utilities
+  <li>Visual Studio Tools
+</ol>
 <p>
   <b>Actividad 5:</b>
 </p>
