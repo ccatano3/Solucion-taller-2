@@ -88,7 +88,7 @@
 <p>
    <b>Los tipos de productos de Jetbrains son:</b>
 </p>
-<ol>
+<b><ol>
   <li>Code review
   <li>Continuous Integration
   <li>Education
@@ -98,7 +98,7 @@
   <li>Team Tools
   <li>Utilities
   <li>Visual Studio Tools
-</ol>
+ </ol></b>
 <p>
   <b>Actividad 5:</b>
 </p>
