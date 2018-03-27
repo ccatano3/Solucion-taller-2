@@ -1,6 +1,6 @@
 # Solucion-taller-2
 <html>
-  <h1><b><center>Solución del Taller N°2</center></b></h1>
+  <h1><b><center>                             Solución del Taller N°2</center></b></h1>
 <p>
   <b>Actividad 1:</b>
 </p>
