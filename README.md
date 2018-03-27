@@ -54,8 +54,8 @@
    <li>git grep
 </ul>
 <p>
-  <b><Evidencia de la instalación del cliente grafico para Windows de GitHub</b>
-    </p>
+  <b><Evidencia de la instalación del cliente grafico para Windows de GitHub oeoeoeoeoe</b>
+</p>
 <p>
   <b>Actividad 4:</b>
 </p>
