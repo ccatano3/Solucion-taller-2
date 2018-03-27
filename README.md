@@ -54,11 +54,10 @@
    <li>git grep
 </ul>
 <p>
-  <b>Actividad fklg:</b>
-</p><p>
-  <b>Actividad rqrqr:</b>
-</p><p>
-  <b>Actividad qqr:</b>
+  <b>Evidencia de la instalación del cliente grafico para Windows de GitHub:</b>
+</p>
+<p>
+  <b>Evidencia de la instalación del cliente grafico sourcetree:</b>
 </p>
 <p>
   <b>Actividad 4:</b>
