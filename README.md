@@ -107,7 +107,7 @@
   <li>Visual Studio Tools
  </ol>
 <p>
-  <b>Actividad 5:</b>
+  <b>Actividad 5:</b> Al realizar el debido proceso para ponerme de alta en la nube de AWS amazon, no pude completar con éxito el proceso que consistía en recibir la llamada para digitar el código de 4 dígitos que me habían asignado ya que mostraba un mensaje diciéndome que tenía problemas para ponerse en contacto conmigo como lo ilustra <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen7.png">la siguiente imagen.</a>
 </p>
 <p>
   <b>Actividad 6:</b>
