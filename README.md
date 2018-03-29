@@ -150,7 +150,7 @@ El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el 
     <li>Seguridad a escala
   </ul>
 <p>
-  a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen14.png">Evidencia de la creación de la maquina virtual llamada maquina en google cloud.</a>
+  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen14.png">Evidencia de la creación de la maquina virtual llamada maquina en google cloud.</a>
 </p>  
 </p>
 <p>
