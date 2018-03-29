@@ -113,19 +113,28 @@
   <b>Actividad 6:</b> <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen8.png">Evidencia de la creación de la máquina virtual llamada Maquina1.</a>
 </p>
 <p>
-  <b>Beneficio a corto plazo de Microsoft Dev Essential</b> 
+  <b>Beneficio a corto plazo de Microsoft Dev Essential:</b> 
   </p>
 <p>
 El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el de Microsoft Virtual Academy porque allí puedo encontrar diferentes cursos en las últimas tecnologías y desarrollar habilidades en estas que me permitan cumplir con los objetivos planteados en la materia llamada proyecto integrador donde estoy trabajando en un proyecto llamado Hermes y para la realización de este es necesario saber de la tecnología de in-door location donde esta es bastante nueva y útil en el mercado.
   </p>
 <p>
-  <b>Beneficio a corto plazo de Microsoft Azure</b> 
+  <b>Beneficio a corto plazo de Microsoft Azure:</b> 
   </p>
 <p>
   El uso a corto plazo que utilizaría de Microsoft Azure gracias a los servicios que este brinda puedo tener un manejo rápido y flexible del proyecto de desarrollo de software en el que me encuentro trabajando, como también la simulación de diferentes entornos a los que la aplicación se tendrá que enfrentar al momento de que sea entregada al cliente.
 </p>
 <p>
-  <b>Actividad 7:</b>
+  <b>Actividad 7:</b> <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen9.png">Evidencia de la creación de la cuenta en IBM University.</a>
+</p>
+<p>
+ <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen10.png">Evidencia de la creación de la cuenta en IBM Bluemix (ahora IBM Cloud).</a>
+</p>
+<p>
+ <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen11.png">Evidencia de la creación de la obtención de un PROMO CODE, para extender los beneficios por 6 meses más.</a>
+</p>
+<p>
+ Al momento de buscar en el catalogo la opción que me permitiera dar paso a la creacion de la maquina vitrual solo encontre dos opciones las cuales ninguna de ellas era correspondiente a la de maquina virtual o virtual machine. <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen13.png">A continuación se adjunta una prueba de ello, dando clic aquí.</a>
 </p>
 <p>
   <b>Actividad 8:</b>
