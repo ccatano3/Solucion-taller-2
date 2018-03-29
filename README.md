@@ -1,7 +1,14 @@
 # Solucion taller 2
   A continuación se encuentra la solución del taller número 2.
 <p>
-  <b>Actividad 1:</b>
+  <b>Actividad 1:</b> Los softwares oficiales a los que tenemos beneficios por ser alumnos de la Universidad como también a nivel de ingeniería en sistemas son:
+  <ul>
+    <li>https://github.com/
+    <li>https://aws.amazon.com/es/
+    <li>https://www.visualstudio.com/es/dev-essentials/
+    <li>https://www.ibm.com/cloud/
+    <li>https://gsuite.google.com/
+  </ul>
 </p>
 <p>
  <b/>Actividad 2:</b>
