@@ -110,7 +110,19 @@
   <b>Actividad 5:</b> Al realizar el debido proceso para ponerme de alta en la nube de AWS amazon, no pude completar con éxito el proceso que consistía en recibir la llamada para digitar el código de 4 dígitos que me habían asignado ya que mostraba un mensaje diciéndome que tenía problemas para ponerse en contacto conmigo como lo ilustra <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen7.png">la siguiente imagen.</a>
 </p>
 <p>
-  <b>Actividad 6:</b>
+  <b>Actividad 6:</b> <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen8.png">Evidencia de la creación de la máquina virtual llamada Maquina1.</a>
+</p>
+<p>
+  <b>Beneficio a corto plazo de Microsoft Dev Essential</b> 
+  </p>
+<p>
+El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el de Microsoft Virtual Academy porque allí puedo encontrar diferentes cursos en las últimas tecnologías y desarrollar habilidades en estas que me permitan cumplir con los objetivos planteados en la materia llamada proyecto integrador donde estoy trabajando en un proyecto llamado Hermes y para la realización de este es necesario saber de la tecnología de in-door location donde esta es bastante nueva y útil en el mercado.
+  </p>
+<p>
+  <b>Beneficio a corto plazo de Microsoft Azure</b> 
+  </p>
+<p>
+  El uso a corto plazo que utilizaría de Microsoft Azure gracias a los servicios que este brinda puedo tener un manejo rápido y flexible del proyecto de desarrollo de software en el que me encuentro trabajando, como también la simulación de diferentes entornos a los que la aplicación se tendrá que enfrentar al momento de que sea entregada al cliente.
 </p>
 <p>
   <b>Actividad 7:</b>
