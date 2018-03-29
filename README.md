@@ -14,7 +14,7 @@
  <b/>Actividad 2:</b>
   </p>
 <p>
-  <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github
+  <b>Actividad 3:</b> Evidencia de que se aplicó al programa educativo de github:
 </p>
 <p>
   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen.png">Dando clic aquí, puede observar la evidencia que se mencionó anteriormente.</a>
@@ -35,7 +35,7 @@
 <li>Es completamente gratis e ilimitado para proyectos públicos, es decir que todos podrán ver el código que estos contienen (aunque tú siempre tendrás el control sobre quien subirá cambios).
 </ul>
 <p>
-  <b>Comandos más utilizados:</b>
+  <b>Comandos más utilizados en GitHub:</b>
 </p>
 <ul>
    <li>git config
