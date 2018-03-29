@@ -63,7 +63,7 @@
   <b>Evidencia de la creación de otro repositorio para otra materia:</b>
 </p>
 <p>
-  <a href="https://github.com/ccatano3/Proyecto-integrador-1">Dando clic aquí, puede observar la creación del otro repositorio relacionada con otra materia relacionada con programación la cual es Proyecto integrador 1.</a>
+  <a href="https://github.com/ccatano3/Proyecto-integrador-1">Dando clic aquí, puede observar la creación del otro repositorio relacionada con otra materia de programación la cual es Proyecto integrador 1.</a>
 </p>
 <p>
   <b>Evidencia de la instalación del cliente grafico para Windows de GitHub:</b>
