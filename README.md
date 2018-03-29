@@ -84,7 +84,7 @@
    <b>Evidencia de la creación de la cuenta en Jetbrains y de la descarga de los 2 editores los cuales son ruby y PHP:</b>
 </p>
 <p>
-   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen4.png">Dando clic aquí, puede observar la evidencia de la creación de la cuenta y de la obtencion de la licencia gratuita por 1 año.</a>
+   <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen4.png">Dando clic aquí, puede observar la evidencia de la creación de la cuenta y de la obtención de la licencia gratuita por 1 año.</a>
 </p>
 <p>
    <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen5.png">Dando clic aquí, puede observar la evidencia de la descarga del editor para programar en ruby.</a>
