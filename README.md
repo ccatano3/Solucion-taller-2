@@ -8,6 +8,7 @@
     <li>https://www.visualstudio.com/es/dev-essentials/
     <li>https://www.ibm.com/cloud/
     <li>https://gsuite.google.com/
+    <li>https://www.dropbox.com/
   </ul>
 </p>
 <p>
@@ -134,10 +135,23 @@ El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el 
  <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen11.png">Evidencia de la creación de la obtención de un PROMO CODE, para extender los beneficios por 6 meses más.</a>
 </p>
 <p>
- Al momento de buscar en el catalogo la opción que me permitiera dar paso a la creacion de la maquina vitrual solo encontre dos opciones las cuales ninguna de ellas era correspondiente a la de maquina virtual o virtual machine. <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen13.png">A continuación se adjunta una prueba de ello, dando clic aquí.</a>
+ Al momento de buscar en el catálogo la opción que me permitiera dar paso a la creación de la maquina virtual solo encontré dos opciones las cuales ninguna de ellas era correspondiente a la de máquina virtual o virtual machine. <a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen13.png">A continuación se adjunta una prueba de ello, dando clic aquí.</a>
 </p>
 <p>
-  <b>Actividad 8:</b>
+  <b>Actividad 8: Beneficios de Google Cloud:</b>
+</p>
+<p>
+  <ul>
+    <li>Infraestructura preparada para el futuro
+    <li>Daros y analítica de gran alcance
+    <li>Recursos informáticos sin servidores, completamente administrados
+    <li>Precios asequibles
+    <li>Innovación en centro de datos
+    <li>Seguridad a escala
+  </ul>
+<p>
+  a href="https://github.com/ccatano3/Solucion-taller-2/blob/master/imagen14.png">Evidencia de la creación de la maquina virtual llamada maquina en google cloud.</a>
+</p>  
 </p>
 <p>
   <b>Actividad 9:</b>
