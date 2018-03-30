@@ -154,6 +154,15 @@ El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el 
 </p>  
 </p>
 <p>
-  <b>Actividad 9:</b>
+  <b>Actividad 9: Beneficios a los que se puede acceder a Oracle por ser estudiante</b>
+</p>
+<p>
+  <ol>
+    <li>Cursos autodidácticos de Oracle Academy en Alice y Greenfoot, que son entornos educativos de desarrollo en Java.
+    <li>Licencias de software para su uso didáctico personal, a través de Oracle Technology Network.
+    <li>Talleres intensivos de Data Science, una serie de conferencias en video que dan una introducción y ofrecen ejercicios prácticos de Data Science y Big Data en un contexto de problemas de la vida real.
+    <li>Ask the Oracle Experts de Oracle Academy, una serie de webcasts interactivos sobre una variedad de temas relacionados con la tecnología.
+    <li>Distintivos electrónicos y pósters descargables de Oracle Academy para compartir en redes sociales... y muchas otras cosas más
+  </ol>
 </p>
 
