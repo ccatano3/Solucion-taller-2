@@ -165,4 +165,14 @@ El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el 
     <li>Distintivos electrónicos y pósters descargables de Oracle Academy para compartir en redes sociales... y muchas otras cosas más
   </ol>
 </p>
-
+<p>
+  <b>Beneficios a los que se puede acceder a HP por ser estudiante:</b>
+</p>
+<p>
+  <ol>
+    <li>La tienda HP para estudiantes y profesores ofrece hasta un 30% de descuento en productos HP.
+    <li>Envío rápido y gratuito para pedidos superiores a 25 euros.
+    <li>Promociones de la Tienda. Recibe nuestras ofertas y promociones inscribiéndote a nuestra Newsletter.
+    <li>Ventajas para miembros. Accede a precios y ofertas especiales en una amplia gama de PCs, tablets, impresoras, tinta y tóner.
+  </ol>
+</p>
