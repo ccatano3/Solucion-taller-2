@@ -175,4 +175,4 @@ El beneficio a corto plazo que utilizaría de Microsoft Dev Essential sería el 
     <li>Promociones de la Tienda. Recibe nuestras ofertas y promociones inscribiéndote a nuestra Newsletter.
     <li>Ventajas para miembros. Accede a precios y ofertas especiales en una amplia gama de PCs, tablets, impresoras, tinta y tóner.
   </ol>
-</p>
+</p> 
